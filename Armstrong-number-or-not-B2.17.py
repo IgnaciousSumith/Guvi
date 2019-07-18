@@ -7,6 +7,6 @@ while n!=0:
     s=s+r**3
     n=n//10
 if s==n1:
-    print("Yes")
+    print("yes")
 else:
-    print("No")
+    print("no")
