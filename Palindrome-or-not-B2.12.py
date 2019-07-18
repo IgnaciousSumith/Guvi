@@ -3,4 +3,4 @@ y=list(reversed(x))
 if(x==y):
     print("yes")
 else:
-    print("No")
+    print("no")
