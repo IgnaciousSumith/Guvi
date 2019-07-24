@@ -3,5 +3,5 @@ def reverse(s):
   for i in s: 
     str = i + str
   return str
-a=str(input())
-print(reverse(a))
+s=str(input())
+print(reverse(s))
